@@ -1,7 +1,7 @@
         // !!! GANTI DENGAN URL WEB APP ANDA !!!
         const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbyWpgCokR45ULA1XnCqXCtI5bf-OoqVeVV-NlMuZiNbZca4Ar4BpATP1Nw_lQuZYssC/exec";
         // !!! GANTI USERNAME & REPO_NAME untuk preview URL !!!
-        const githubUsername = "edycindy";
+        const githubUsername = "supergames19";
         const githubRepoName = "Shortener";
 
         function generateRandomString(length = 6) {
